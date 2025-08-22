@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv*/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Playwright browser state
+chrome_user_data/
+chrome_youtube_profile/
+youtube_profile/
+user_storage/
+nibAutoLogin/nib_browser_profile/
+
+# Output and temp
+temp/
+*.mp4
+*.mp3
+*.jpeg
+*.png
+*.jpg
+*.webp
+
+# Credentials and state
+nibAutoLogin/nib_credentials.json
+nibAutoLogin/nib_login_state.json
+youtube_cookies.json
+youtube_storage.json
+
+# Misc
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.old
+*.orig
+*.rej
+
+# System files
+.DS_Store
+Thumbs.db
